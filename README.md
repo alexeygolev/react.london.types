@@ -22,3 +22,10 @@ Materials for React.London meetup talk
 - [core.typed for Clojure](https://github.com/clojure/core.typed)
 - [Typed Racket](http://docs.racket-lang.org/ts-guide/index.html)
 - [Typespecs in Elixir](http://elixir-lang.org/getting-started/typespecs-and-behaviours.html)
+
+## Experiments with tackling the types in js
+- [TypedJS](https://github.com/Ejhfast/TypedJS)
+- [Contracts.coffee](https://github.com/disnet/contracts.coffee)
+- [Contracts.js](https://github.com/disnet/contracts.js)
+- [rho-contracts.js](https://github.com/sefaira/rho-contracts.js)
+- [TreatJS](http://proglang.informatik.uni-freiburg.de/treatjs/)
