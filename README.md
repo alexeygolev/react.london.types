@@ -15,6 +15,7 @@ Materials for React.London meetup talk
 - [The abject failure of weak typing](http://rea.tech/the-abject-failure-of-weak-typing/)
 - [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
 - [What to know before debating type systems](http://blogs.perl.org/users/ovid/2010/08/what-to-know-before-debating-type-systems.html)
+- [TDD vs Static Typing](http://typeinference.com/scala/2016/05/03/tdd-vs-static-typing.html)
 
 ## Static analysis in dynamic languages
 - [Dialyzer in Erlang](http://learnyousomeerlang.com/dialyzer)
