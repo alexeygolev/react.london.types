@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": true,
+        "noImplicitReturns": true,
+        "lib": ["dom", "es5", "es5", "es2015"]
+    },
+    "filesGlob": [
+      "*/**/*.ts"
+    ],
+    "exclude": [
+        "flow"
+    ]
+}
